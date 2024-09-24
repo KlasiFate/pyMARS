@@ -1,4 +1,14 @@
-# pyMARS
+# pyMARS fixed
+
+This repository contains code of fixed pyMARS.
+## Installation of fixed version
+```bash
+git clone https://github.com/KlasiFate/pyMARS .
+pip install -e .
+```
+
+## Original description
+
 <img src="logo/pymars-logo.png" align="right" width="200" />
 
 [![DOI](https://zenodo.org/badge/51664233.svg)](https://zenodo.org/badge/latestdoi/51664233)
