@@ -3,7 +3,7 @@
 This repository contains code of fixed pyMARS.
 ## Installation of fixed version
 ```bash
-git clone https://github.com/KlasiFate/pyMARS .
+git clone git@github.com:KlasiFate/pyMARS.git .
 pip install -e .
 ```
 
